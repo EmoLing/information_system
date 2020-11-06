@@ -1,0 +1,142 @@
+{
+  "workers": [
+    {
+      "Salary": 500.0,
+      "Position": "Интерн",
+      "ID": 1,
+      "FirstName": "Иванов",
+      "LastName": "Иван",
+      "Age": 23,
+      "Department": "Отдел А"
+    },
+    {
+      "CountHours": 800,
+      "Salary": 9600.0,
+      "Position": "Рабочий",
+      "ID": 2,
+      "FirstName": "Борис",
+      "LastName": "Борисов",
+      "Age": 44,
+      "Department": "Отдел Б"
+    },
+    {
+      "Salary": 500.0,
+      "Position": "Интерн",
+      "ID": 3,
+      "FirstName": "Владимир",
+      "LastName": "Владимиров",
+      "Age": 23,
+      "Department": "Отдел А11"
+    },
+    {
+      "Salary": 500.0,
+      "Position": "Интерн",
+      "ID": 4,
+      "FirstName": "Новенький",
+      "LastName": "Кто-то",
+      "Age": 23,
+      "Department": "Отдел А1"
+    },
+    {
+      "Salary": 500.0,
+      "Position": "Интерн",
+      "ID": 5,
+      "FirstName": "Иван",
+      "LastName": "Иванов",
+      "Age": 23,
+      "Department": "Отдел А111"
+    },
+    {
+      "Salary": 500.0,
+      "Position": "Интерн",
+      "ID": 6,
+      "FirstName": "Сан",
+      "LastName": "Саныч",
+      "Age": 23,
+      "Department": "Отдел А2"
+    },
+    {
+      "Salary": 1815.0,
+      "Position": "Директор",
+      "ID": 7,
+      "FirstName": "Варя",
+      "LastName": "Кулак",
+      "Age": 34,
+      "Department": "\u0000"
+    }
+  ],
+  "departments": [
+    {
+      "ID": 0,
+      "Name": "Отдел А",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 0,
+      "childID": 0
+    },
+    {
+      "ID": 1,
+      "Name": "Отдел Б",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 0,
+      "childID": 0
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А1",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 0,
+      "childID": 1
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А11",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 2,
+      "childID": 2
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А2",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 0,
+      "childID": 1
+    },
+    {
+      "ID": 1,
+      "Name": "Отдел Б1",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 1,
+      "childID": 1
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А21",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 4,
+      "childID": 2
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А12",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 2,
+      "childID": 2
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А111",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 3,
+      "childID": 3
+    }
+  ]
+}

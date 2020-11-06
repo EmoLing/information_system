@@ -1,0 +1,66 @@
+﻿<Window x:Class="information_system.AddWorkerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:information_system"
+        mc:Ignorable="d"
+        Title="AddWorker" Height="314" Width="380"
+        ResizeMode="NoResize">
+    <Grid>
+        <TextBox x:Name="BoxFirstName" HorizontalAlignment="Left" Height="23" Margin="90,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="185"/>
+        <TextBox x:Name="BoxLastName" HorizontalAlignment="Left" Height="23" Margin="90,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <TextBox x:Name="BoxAge" HorizontalAlignment="Left" Height="23" Margin="90,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" PreviewTextInput="BoxAge_PreviewTextInput"/>
+        <TextBox x:Name="BoxSalary" 
+                 HorizontalAlignment="Left" 
+                 Height="23" Margin="90,150,0,0" 
+                 TextWrapping="Wrap" VerticalAlignment="Top"
+                 Width="185" IsEnabled="False"
+                 />
+        <TextBox x:Name="BoxHours" HorizontalAlignment="Left" Height="23" Margin="90,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" IsEnabled="False" PreviewTextInput="BoxHours_PreviewTextInput"/>
+        <Button x:Name="ButAddWorker" Content="Добавить" 
+                HorizontalAlignment="Left" Margin="10,223,0,0" 
+                VerticalAlignment="Top" Width="75" Height="25" 
+                Click="ButAddWorker_Click" IsDefault="True"/>
+        <Button x:Name="ButCanсel" Content="Отмена" 
+                HorizontalAlignment="Left" Margin="90,223,0,0" 
+                VerticalAlignment="Top" Width="75" Height="25" 
+                IsCancel="True"/>
+        <Label Content="Имя" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Height="23" FontSize="10"/>
+        <Label Content="Фамилия" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="75" Height="23" FontSize="10"/>
+        <Label Content="Возраст" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top" Width="75" Height="23" FontSize="10"/>
+        <Label Content="Отдел" HorizontalAlignment="Left" Margin="10,94,0,0" VerticalAlignment="Top" Width="75" Height="23" FontSize="10"/>
+        <Label Content="Должность" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" Width="75" Height="23" FontSize="10"/>
+        <Label Content="Зарплата" HorizontalAlignment="Left" Margin="10,150,0,0" VerticalAlignment="Top" Width="75" Height="23" FontSize="10"/>
+        <Label Content="Часы" HorizontalAlignment="Left" Margin="10,178,0,0" VerticalAlignment="Top" Width="75" Height="23" FontSize="10"/>
+
+        <ComboBox x:Name="ComboPosition" HorizontalAlignment="Left" Margin="90,122,0,0" VerticalAlignment="Top" Width="185" IsEditable="False">
+            <ComboBoxItem Name="ComboIntern" Selected="ComboIntern_Selected">
+                <TextBlock x:Name="TextIntern">
+                    Интерн
+                </TextBlock>
+            </ComboBoxItem>
+            <ComboBoxItem Name="ComboMainWorker" Selected="ComboMainWorker_Selected">
+                <TextBlock x:Name="TextMainWorker">
+                    Рабочий
+                </TextBlock>
+            </ComboBoxItem>
+            <ComboBoxItem Name="ComboDirector" Selected="ComboDirector_Selected">
+                <TextBlock x:Name="TextDirector">
+                    Директор
+                </TextBlock>
+            </ComboBoxItem>
+            <ComboBoxItem Name="ComboMainManager" Selected="ComboMainManager_Selected">
+                <TextBlock x:Name="TextMainManager">
+                    Менеджер
+                </TextBlock>
+            </ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="ComboDepartment" HorizontalAlignment="Left" Margin="90,94,0,0" VerticalAlignment="Top" Width="185"  
+                  Initialized="ComboDepartment_Initialized" />
+        <Button x:Name="SaveHours" Content="Сохранить" 
+                HorizontalAlignment="Left" Margin="280,178,0,0" 
+                VerticalAlignment="Top" Width="75" Height="23" 
+                Click="SaveHours_Click" IsEnabled="False"/>
+    </Grid>
+</Window>

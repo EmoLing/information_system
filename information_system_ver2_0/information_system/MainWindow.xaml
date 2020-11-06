@@ -1,0 +1,150 @@
+﻿<Window x:Class="information_system.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:information_system"
+        mc:Ignorable="d"
+        Title="Информационная система" Height="450" Width="1000" Initialized="Window_Initialized" Icon="main_icon.png" MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21*"/>
+            <RowDefinition Height="398*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="155*" MinWidth="100"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="500*" MinWidth="30"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="243*" MinWidth="200"/>
+        </Grid.ColumnDefinitions>
+
+        <TreeView x:Name ="TreeDepartments"
+                  Grid.Row="1"
+                  Grid.Column="0"
+                  Width="Auto"
+                  ToolTip="Правая кнопка мыши - вспомогательное меню" SelectedItemChanged="TreeDepartments_SelectedItemChanged">
+            <TreeView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Добавить" Click="TreeAdd"/>
+                    <MenuItem Header="Удалить" Click="TreeDelete"/>
+                    <MenuItem Header="Редактировать" Click="TreeEdit"/>
+                    <MenuItem Header="Обновить" Click="TreeDepartments_Update"/>
+                    <MenuItem Header="Добавить сотрудника в отдел" Click="AddWorkerInDep"/>
+                </ContextMenu>
+            </TreeView.ContextMenu>
+            <TreeView.Items/>
+        </TreeView>
+
+        <ListView x:Name="listview_workers"
+                  Grid.Row="1"
+                  Grid.Column="2" MouseDoubleClick="ListViewWorker_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=ID}" Width="40" >
+                        <GridViewColumnHeader Content="ID" x:Name="NumberColum" Click="NumberColum_Click"  />
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=FirstName}" Width="Auto">
+                        <GridViewColumnHeader Content="Имя" x:Name="FirstNameColum" Click="FirstNameColum_Click"  />
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=LastName}" Width="Auto">
+                        <GridViewColumnHeader Content="Фамилия" x:Name="LastNameColum" Click="LastNameColum_Click"  />
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Age}" Width="Auto">
+                        <GridViewColumnHeader Content="Возраст" x:Name="AgeColum" Click="AgeColum_Click"  />
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Department}" Width="Auto">
+                        <GridViewColumnHeader Content="Отдел" x:Name="DepartmentColum" Click="DepartmentColum_Click"  />
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Position}" Width="Auto">
+                        <GridViewColumnHeader Content="Должность" x:Name="PositionColum" Click="PositionColum_Click"  />
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Salary}" Width="Auto">
+                        <GridViewColumnHeader Content="Зарплата в $" x:Name="SalaryColum" Click="SalaryColum_Click"  />
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Обновить" Name="Update" Click="ClickUpdate"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+
+        <GridSplitter Grid.Row="1"
+                      Grid.Column="1"
+                      HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+                      Background="Black" Grid.RowSpan="2"/>
+
+        <GridSplitter Grid.Row="1"
+                      Grid.Column="3"
+                      HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+                      Background="Black" Grid.RowSpan="2"/>
+        <Button Content="Добавить нового сотрудника" 
+                x:Name="ButAddWorker"
+                Grid.Column="4" 
+                HorizontalAlignment="Left" 
+                Margin="10,10,0,0" 
+                Grid.Row="1" 
+                VerticalAlignment="Top" 
+                Width="193" Click="AddNewWorker_Click"/>
+
+        <Button Content="Редактировать сотрудника" 
+            x:Name="ButEditWorker"
+            Grid.Column="4" 
+            HorizontalAlignment="Left" 
+            Margin="10,35,0,0" 
+            Grid.Row="1" 
+            VerticalAlignment="Top" 
+            Width="193" Click="EditWorker_Click"/>
+
+        <Button Content="Удалить сотрудника"
+                Grid.Column="4"
+                HorizontalAlignment="Left"
+                Margin="10,60,0,0"
+                Grid.Row="1"
+                VerticalAlignment="Top"
+                Width="193" Click="DeleteWorker_Click"/>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="18" Margin="5,2,0,0" VerticalAlignment="Top" Width="48">
+            <MenuItem Header="Меню">
+                <MenuItem Header="Показать отделы" Click="ButShowDep_Click">
+                    <MenuItem.Icon>
+                        <Image Source="pic/show_dep_icon.png" Margin="0,0,-9,0"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Сериализация" Click="ButSerializ_Click">
+                    <MenuItem.Icon>
+                        <Image Source="pic/save_icon.png" Margin="0,0,-9,0"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Сохранить как..." Click="ButSerializHOW_Click">
+                    <MenuItem.Icon>
+                        <Image Source="pic/save_icon.png" Margin="0,0,-9,0"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Рандомные работники" Click="ButRandomWorkers">
+                    <MenuItem.Icon>
+                        <Image Source="pic/save_icon.png" Margin="0,0,-9,0"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem IsCheckable="True" x:Name="MenuItemAutoLoad" Header="Автозагрузка"  Checked="MenuItemAutoLoad_Checked" Unchecked="MenuItemAutoLoad_Unchecked" />
+                <MenuItem Header="Открыть файл" Click="ButFileOpen_Click">
+                    <MenuItem.Icon>
+                        <Image Source="pic/open_file_icon.png" Margin="0,0,-9,0"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Справка" Click="ButFAQ_Click">
+                    <MenuItem.Icon>
+                        <Image Source="pic/readme.png" Margin="0,0,-9,0"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Выход" Click="ButExit">
+                    <MenuItem.Icon>
+                        <Image Source="pic/exit_icon.png" Margin="0,0,-9,0"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <CheckBox x:Name="CheckSeeOtherWorkers" Content="Показ сотрудников из дочерних отделов" Grid.Column="4" HorizontalAlignment="Left" Margin="10,104,0,0" Grid.Row="1" VerticalAlignment="Top" Checked="CheckSeeOtherWorkers_Checked" Unchecked="CheckSeeOtherWorkers_Unchecked"/>
+    </Grid>
+</Window>

@@ -1,0 +1,55 @@
+﻿<Window x:Class="information_system.WinShowDep"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:information_system"
+        mc:Ignorable="d"
+        Title="WinShowDep" Height="450" Width="1100" ResizeMode="NoResize">
+    <Grid>
+        <ListView x:Name="listDep" HorizontalAlignment="Left" Height="400" Margin="10,10,0,0" VerticalAlignment="Top" Width="465" Initialized="listDep_Initialized">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=ID}" Width="60" >
+                        №
+                    </GridViewColumn>
+                    <GridViewColumn Header="Название" DisplayMemberBinding="{Binding Path=Name}" Width="200">
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=DateOfCreate}" Width="200">
+                        Дата Создания
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="listWorker" HorizontalAlignment="Left" Height="400" Margin="480,10,0,0" VerticalAlignment="Top" Width="487">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=ID}" Width="40" >
+                        №
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=FirstName}" Width="100">
+                        Имя
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=LastName}" Width="100">
+                        Фамилия
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Age}" Width="Auto">
+                        Возраст
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Department}" Width="Auto">
+                        Отдел
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Position}" Width="Auto">
+                        Должность
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Salary}" Width="Auto">
+                        Зарплата в $
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Name="ButShowWorkers" Content="Показать" HorizontalAlignment="Left" Margin="972,10,0,0" VerticalAlignment="Top" Width="112" Height="29" Click="ButShowWorkers_Click" />
+
+
+    </Grid>
+</Window>

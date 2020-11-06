@@ -1,0 +1,468 @@
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\AddWorkerWindow.g.cs
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\MainWindow.g.cs
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\App.g.cs
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\information_system_MarkupCompile.cache
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\information_system_MarkupCompile.lref
+D:\SkillBox\дз11\homework1\again\information_system\information_system\bin\Debug\information_system.exe.config
+D:\SkillBox\дз11\homework1\again\information_system\information_system\bin\Debug\information_system.exe
+D:\SkillBox\дз11\homework1\again\information_system\information_system\bin\Debug\information_system.pdb
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\AddWorkerWindow.baml
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\MainWindow.baml
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.g.resources
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.Properties.Resources.resources
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.exe
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.pdb
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\EditWorkerWindow.g.cs
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\EditWorkerWindow.baml
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\WindowDepartment.g.cs
+D:\SkillBox\дз11\homework1\again\information_system\information_system\obj\Debug\WindowDepartment.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\bin\Debug\information_system.exe.config
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\bin\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\bin\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\AddWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\EditWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\WindowDepartment.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\App.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\information_system_MarkupCompile.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\information_system_MarkupCompile.lref
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\AddWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\EditWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\MainWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\WindowDepartment.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.g.resources
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\WinShowDep.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system\information_system\obj\Debug\WinShowDep.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\AddWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\EditWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\WindowDepartment.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\WinShowDep.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\App.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system_MarkupCompile.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system_MarkupCompile.lref
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\bin\Debug\information_system.exe.config
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\bin\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\bin\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\AddWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\EditWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\MainWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\WindowDepartment.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\WinShowDep.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system.g.resources
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test\information_system\obj\Debug\information_system.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\bin\Debug\information_system.exe.config
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\bin\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\bin\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\AddWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\EditWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\WindowDepartment.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\WIndowShowWorker.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\WinShowDep.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\App.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system_MarkupCompile.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system_MarkupCompile.lref
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\AddWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\EditWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\MainWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\WindowDepartment.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\WIndowShowWorker.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\WinShowDep.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system.g.resources
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\WinFAQ.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 2\information_system\obj\Debug\WinFAQ.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\bin\Debug\information_system.exe.config
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\bin\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\bin\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\AddWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\EditWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WindowDepartment.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WIndowShowWorker.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WinFAQ.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WinShowDep.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\App.g.cs
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system_MarkupCompile.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system_MarkupCompile.lref
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\AddWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\EditWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\MainWindow.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WindowDepartment.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WIndowShowWorker.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WinFAQ.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WinShowDep.baml
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.g.resources
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.pdb
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\bin\Debug\information_system.exe.config
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\bin\Debug\information_system.exe
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\bin\Debug\information_system.pdb
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\bin\Debug\Newtonsoft.Json.dll
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\bin\Debug\Newtonsoft.Json.xml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\AddWorkerWindow.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\EditWorkerWindow.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\MainWindow.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WindowDepartment.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WIndowShowWorker.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WinFAQ.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WinShowDep.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\App.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system_MarkupCompile.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system_MarkupCompile.lref
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\AddWorkerWindow.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\EditWorkerWindow.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\MainWindow.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WindowDepartment.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WIndowShowWorker.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WinFAQ.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\WinShowDep.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.g.resources
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.Properties.Resources.resources
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.csproj.CopyComplete
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.exe
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\information_system.pdb
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\Windows1.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3\information_system\obj\Debug\Windows1.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\bin\Debug\information_system.exe.config
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\bin\Debug\information_system.exe
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\bin\Debug\information_system.pdb
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\bin\Debug\Newtonsoft.Json.dll
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\bin\Debug\Newtonsoft.Json.xml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\AddWorkerWindow.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\EditWorkerWindow.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\MainWindow.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\Windows1.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\WindowDepartment.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\WIndowShowWorker.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\WinFAQ.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\WinShowDep.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\App.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system_MarkupCompile.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system_MarkupCompile.lref
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\AddWorkerWindow.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\EditWorkerWindow.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\MainWindow.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\Windows1.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\WindowDepartment.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\WIndowShowWorker.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\WinFAQ.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\WinShowDep.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.g.resources
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.Properties.Resources.resources
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.csproj.CopyComplete
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.exe
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\bin\Debug\information_system.exe.config
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\bin\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\bin\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\AddWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\EditWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\Windows1.g.cs
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\WindowDepartment.g.cs
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\WIndowShowWorker.g.cs
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\WinFAQ.g.cs
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\WinShowDep.g.cs
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\App.g.cs
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system_MarkupCompile.cache
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system_MarkupCompile.lref
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\AddWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\EditWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\MainWindow.baml
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\Windows1.baml
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\WindowDepartment.baml
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\WIndowShowWorker.baml
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\WinFAQ.baml
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\WinShowDep.baml
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.g.resources
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\again\information_system test 3 изменение отделов\information_system\obj\Debug\information_system.pdb
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\bin\Debug\information_system.exe.config
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\bin\Debug\information_system.exe
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\bin\Debug\information_system.pdb
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\bin\Debug\Newtonsoft.Json.dll
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\bin\Debug\Newtonsoft.Json.xml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\AddWorkerWindow.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\EditWorkerWindow.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\MainWindow.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\Windows1.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\WindowDepartment.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\WIndowShowWorker.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\WinFAQ.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\WinShowDep.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\App.g.cs
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system_MarkupCompile.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system_MarkupCompile.lref
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\AddWorkerWindow.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\EditWorkerWindow.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\MainWindow.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\Windows1.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\WindowDepartment.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\WIndowShowWorker.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\WinFAQ.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\WinShowDep.baml
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system.g.resources
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system.Properties.Resources.resources
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system.csproj.CopyComplete
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system.exe
+D:\Учеба\c#\дз11\homework1\again\information_system test 3 изменение отделов + древо\information_system\obj\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\bin\Debug\information_system.exe.config
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\bin\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\bin\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\AddWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\EditWorkerWindow.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\Windows1.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WindowDepartment.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WIndowShowWorker.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WinFAQ.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WinShowDep.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\App.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system_MarkupCompile.cache
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system_MarkupCompile.lref
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\AddWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\EditWorkerWindow.baml
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\MainWindow.baml
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\Windows1.baml
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WindowDepartment.baml
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WIndowShowWorker.baml
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WinFAQ.baml
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WinShowDep.baml
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.g.resources
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.exe
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.pdb
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WindowRandomWorkers.g.cs
+C:\Users\Xiaomi\Desktop\information_system test ПРОРЫВ\information_system\obj\Debug\WindowRandomWorkers.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\bin\Debug\information_system.exe.config
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\bin\Debug\information_system.exe
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\bin\Debug\information_system.pdb
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\bin\Debug\Newtonsoft.Json.dll
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\bin\Debug\Newtonsoft.Json.xml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\AddWorkerWindow.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\EditWorkerWindow.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\MainWindow.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WindowRandomWorkers.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\Windows1.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WindowDepartment.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WIndowShowWorker.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WinFAQ.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WinShowDep.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\App.g.cs
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system_MarkupCompile.cache
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system_MarkupCompile.lref
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\AddWorkerWindow.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\EditWorkerWindow.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\MainWindow.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WindowRandomWorkers.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\Windows1.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WindowDepartment.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WIndowShowWorker.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WinFAQ.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\WinShowDep.baml
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.g.resources
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.Properties.Resources.resources
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.csproj.CopyComplete
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.exe
+D:\SkillBox\дз11\information_system test ПРОРЫВ\information_system\obj\Debug\information_system.pdb
+D:\SkillBox\дз11\information_system\information_system\bin\Debug\information_system.exe.config
+D:\SkillBox\дз11\information_system\information_system\bin\Debug\information_system.exe
+D:\SkillBox\дз11\information_system\information_system\bin\Debug\information_system.pdb
+D:\SkillBox\дз11\information_system\information_system\bin\Debug\Newtonsoft.Json.dll
+D:\SkillBox\дз11\information_system\information_system\bin\Debug\Newtonsoft.Json.xml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\AddWorkerWindow.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\EditWorkerWindow.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\MainWindow.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WindowRandomWorkers.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\Windows1.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WindowDepartment.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WIndowShowWorker.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WinFAQ.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WinShowDep.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\App.g.cs
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system_MarkupCompile.cache
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system_MarkupCompile.lref
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\AddWorkerWindow.baml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\EditWorkerWindow.baml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\MainWindow.baml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WindowRandomWorkers.baml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\Windows1.baml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WindowDepartment.baml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WIndowShowWorker.baml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WinFAQ.baml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\WinShowDep.baml
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system.g.resources
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system.Properties.Resources.resources
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system.csproj.CopyComplete
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system.exe
+D:\SkillBox\дз11\information_system\information_system\obj\Debug\information_system.pdb
+D:\SkillBox\дз12\information_system_ver2_0\information_system\bin\Debug\information_system.exe.config
+D:\SkillBox\дз12\information_system_ver2_0\information_system\bin\Debug\information_system.exe
+D:\SkillBox\дз12\information_system_ver2_0\information_system\bin\Debug\information_system.pdb
+D:\SkillBox\дз12\information_system_ver2_0\information_system\bin\Debug\Newtonsoft.Json.dll
+D:\SkillBox\дз12\information_system_ver2_0\information_system\bin\Debug\Newtonsoft.Json.xml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\AddWorkerWindow.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\EditWorkerWindow.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\MainWindow.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WindowRandomWorkers.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\Windows1.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WindowDepartment.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WIndowShowWorker.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WinFAQ.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WinShowDep.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\App.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system_MarkupCompile.cache
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system_MarkupCompile.lref
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\AddWorkerWindow.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\EditWorkerWindow.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\MainWindow.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WindowRandomWorkers.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\Windows1.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WindowDepartment.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WIndowShowWorker.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WinFAQ.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WinShowDep.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.g.resources
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.Properties.Resources.resources
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csproj.CopyComplete
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.exe
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.pdb
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WindowEditDep.g.cs
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\WindowEditDep.baml
+D:\SkillBox\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\bin\Debug\information_system.exe.config
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\bin\Debug\information_system.exe
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\bin\Debug\information_system.pdb
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\bin\Debug\Newtonsoft.Json.dll
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\bin\Debug\Newtonsoft.Json.xml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\AddWorkerWindow.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\EditWorkerWindow.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\MainWindow.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowEditDep.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowRandomWorkers.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\Windows1.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowDepartment.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WIndowShowWorker.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WinFAQ.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WinShowDep.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\App.g.cs
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system_MarkupCompile.cache
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system_MarkupCompile.lref
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\AddWorkerWindow.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\EditWorkerWindow.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\MainWindow.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowEditDep.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowRandomWorkers.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\Windows1.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowDepartment.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WIndowShowWorker.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WinFAQ.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\WinShowDep.baml
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.g.resources
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.Properties.Resources.resources
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csproj.CopyComplete
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.exe
+C:\Skillbox\дз 11 и 12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.pdb
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\bin\Debug\information_system.exe.config
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\bin\Debug\information_system.exe
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\bin\Debug\information_system.pdb
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\bin\Debug\Newtonsoft.Json.dll
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\bin\Debug\Newtonsoft.Json.xml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\AddWorkerWindow.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\EditWorkerWindow.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\MainWindow.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowEditDep.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowRandomWorkers.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\Windows1.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowDepartment.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WIndowShowWorker.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WinFAQ.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WinShowDep.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\App.g.cs
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system_MarkupCompile.cache
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system_MarkupCompile.lref
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\AddWorkerWindow.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\EditWorkerWindow.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\MainWindow.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowEditDep.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowRandomWorkers.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\Windows1.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WindowDepartment.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WIndowShowWorker.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WinFAQ.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\WinShowDep.baml
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.g.resources
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.Properties.Resources.resources
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csproj.CoreCompileInputs.cache
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.csproj.CopyComplete
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.exe
+D:\SkillBox\дз12\дз12\information_system_ver2_0\information_system\obj\Debug\information_system.pdb

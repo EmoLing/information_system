@@ -1,0 +1,288 @@
+{
+  
+  "workers": [
+    {
+      "Salary": 500.0,
+      "Position": "Интерн",
+      "ID": 1,
+      "FirstName": "Дональд",
+      "LastName": "Льюис",
+      "Age": 33,
+      "Department": "Отдел А21"
+    },
+    {
+      "CountHours": 656,
+      "Salary": 7872.0,
+      "Position": "Рабочий",
+      "ID": 2,
+      "FirstName": "Альберт",
+      "LastName": "Эдвардс",
+      "Age": 2,
+      "Department": "Отдел А121"
+    },
+    {
+      "Salary": 500.0,
+      "Position": "Интерн",
+      "ID": 3,
+      "FirstName": "Бобби",
+      "LastName": "Питерсон",
+      "Age": 33,
+      "Department": "Отдел А"
+    },
+    {
+      "Salary": 500.0,
+      "Position": "Интерн",
+      "ID": 4,
+      "FirstName": "Итан",
+      "LastName": "Миллер",
+      "Age": 21,
+      "Department": "Отдел А21"
+    },
+    {
+      "Salary": 500.0,
+      "Position": "Интерн",
+      "ID": 5,
+      "FirstName": "Джек",
+      "LastName": "Голдман",
+      "Age": 56,
+      "Department": "Отдел Б"
+    },
+    {
+      "Salary": 1886.6699999999999,
+      "Position": "Директор",
+      "ID": 6,
+      "FirstName": "Директор",
+      "LastName": "Директор",
+      "Age": 23,
+      "Department": "\u0000"
+    },
+    {
+      "Salary": 1405.8,
+      "Position": "Менеджер",
+      "ID": 7,
+      "FirstName": "Манагер А",
+      "LastName": "Манагер А",
+      "Age": 23,
+      "Department": "Отдел А"
+    },
+    {
+      "Salary": 1300.0,
+      "Position": "Менеджер",
+      "ID": 8,
+      "FirstName": "Манагер Б",
+      "LastName": "Манагер Б",
+      "Age": 23,
+      "Department": "Отдел Б"
+    }
+  ],
+  "departments": [
+    {
+      "ID": 0,
+      "Name": "Отдел А",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": -1,
+      "childID": 0
+    },
+    {
+      "ID": 1,
+      "Name": "Отдел Б",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": -1,
+      "childID": 0
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А1",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 0,
+      "childID": 1
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А2",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 0,
+      "childID": 1
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А11",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 2,
+      "childID": 2
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А12",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 2,
+      "childID": 2
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А13",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 2,
+      "childID": 2
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А21",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 3,
+      "childID": 2
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А22",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 3,
+      "childID": 2
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А23",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 3,
+      "childID": 2
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А111",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 4,
+      "childID": 3
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А112",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 4,
+      "childID": 3
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А113",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 4,
+      "childID": 3
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А114",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 4,
+      "childID": 3
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А121",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 5,
+      "childID": 3
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А122",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 5,
+      "childID": 3
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А123",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 5,
+      "childID": 3
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А124",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 5,
+      "childID": 3
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А1111",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 10,
+      "childID": 4
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А1112",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 10,
+      "childID": 4
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А1113",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 10,
+      "childID": 4
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А1114",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 10,
+      "childID": 4
+    },
+    {
+      "ID": 0,
+      "Name": "Отдел А1115",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 10,
+      "childID": 4
+    },
+    {
+      "ID": 2,
+      "Name": "Отдел С",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": -1,
+      "childID": 0
+    },
+    {
+      "ID": 1,
+      "Name": "Отдел Б1",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 1,
+      "childID": 1
+    },
+    {
+      "ID": 2,
+      "Name": "Отдел С1",
+      "DateOfCreate": "2020-12-12T00:00:00",
+      "ParentID": 0,
+      "Id_Node_Dep": 23,
+      "childID": 1
+    }
+  ]
+}
